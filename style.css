@@ -24,7 +24,7 @@ body {
 }
  
 .footer {
-  position: sticky;
+  position: fixed;
   grid-area: footer;
   background: white;
 }
