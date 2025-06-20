@@ -24,6 +24,7 @@ body {
 }
  
 .footer {
+  position: relative;
   grid-area: footer;
   background: white;
 }
